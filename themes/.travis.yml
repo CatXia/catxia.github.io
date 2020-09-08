@@ -16,3 +16,4 @@ deploy:
   on:
     branch: master
   local-dir: public
+  # 测试下
