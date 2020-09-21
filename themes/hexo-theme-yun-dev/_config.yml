@@ -35,7 +35,7 @@ sidebar:
 
 toc:
   list_number: true
-  max_depth: 6
+  max_depth: 6 
   min_depth: 1
   # placeholder: 很遗憾，咱没写啥目录
   collapse: true
@@ -77,14 +77,14 @@ social:
     link: https://space.bilibili.com/1579790
     icon: icon-bilibili-line
     color: "#FF8EB3"
-  # - name: POPI
-  #   link: https://www.popiask.cn/elpsycn
-  #   icon: icon-questionnaire-line
-  #   color: "#525252"
-  # - name: 微信公众号
-  #   link: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/about/white-qrcode-and-search.jpg
-  #   icon: icon-wechat-2-line
-  #   color: "#1AAD19"
+  - name: POPI
+    link: https://www.popiask.cn/elpsycn
+    icon: icon-questionnaire-line
+    color: "#525252"
+  - name: 微信公众号
+    link: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/about/white-qrcode-and-search.jpg
+    icon: icon-wechat-2-line
+    color: "#1AAD19"
   - name: Twitter
     link: https://twitter.com/YunYouJun
     icon: icon-twitter-line
