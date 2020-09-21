@@ -1,5 +1,6 @@
 ---
 title: 接口
+date: 2020-09-03
 categories: 编程语言
 tags: TypeScript
 comments: true

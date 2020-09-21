@@ -1,5 +1,6 @@
 ---
 title: 变量声明
+date: 2020-09-02
 categories: 编程语言
 tags: TypeScript
 comments: true

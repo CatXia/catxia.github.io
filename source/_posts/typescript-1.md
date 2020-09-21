@@ -1,5 +1,6 @@
 ---
 title: 基础类型
+date: 2020-09-01
 categories: 编程语言
 tags: TypeScript
 comments: true
